@@ -1,0 +1,50 @@
+body {
+	background-color: #4169E1;
+}
+
+#mainheading {
+	color: #000000;
+	text-align: center;
+	text-decoration: underline;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+	overflow: hidden;
+}
+
+li {
+	float: left;
+}
+
+a:link, a:visited {
+    display: block;
+    width: 442px;
+    font-weight: bold;
+    color: #000000;
+    background-color: #E1B941;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+    text-transform: uppercase;
+}
+
+a:hover, a:active {
+	background-color:#EBD183;
+}
+
+#newsheader {
+	text-align: left;
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+#news {
+	text-align: left;
+}
+
+#teamtable {
+	text-weight: bold;
+}
