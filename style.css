@@ -46,5 +46,13 @@ a:hover, a:active {
 }
 
 #teamtable {
-	text-weight: bold;
+	font-weight: bold;
+}
+
+#email {
+	text-align: center;
+	font-weight: bold;
+	text-transform: uppercase;
+	margin-left: auto;
+    margin-right: auto;
 }
