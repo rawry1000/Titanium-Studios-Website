@@ -1,3 +1,3 @@
-Mad-Knight-Studios-Website
+Titanium-Studios-Website
 ==========================
-The goal of this project is to create a webpage for the indie game dev group, Mad Knight Studios. 
+The goal of this project is to create a webpage for the indie game dev group, Titanium Studios. 
